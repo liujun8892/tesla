@@ -7,8 +7,8 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      {/* <Header />
-      <Home /> */}
+      <Header />
+      {/* <Home /> */}
       <Section
         title="Model S"
         description="Order Online for Touchless Delivery"
